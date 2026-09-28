@@ -1,0 +1,6 @@
+# Compiled binary
+proxy2trans
+
+# Container image archives
+proxy2trans.tar
+proxy2trans-routeros.tar
